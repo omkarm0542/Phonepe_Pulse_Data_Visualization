@@ -36,7 +36,7 @@ streamlit run app.py
 
 # License
 
-This project is licensed under the Apache License. See the LICENSE file for details.
+This project is licensed under the Apache License 2.0. See the LICENSE file for details.
 
 # Acknowledgments
 
