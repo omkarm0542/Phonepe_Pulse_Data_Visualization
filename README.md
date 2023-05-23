@@ -1,4 +1,8 @@
 # Phonepe_Pulse_Data_Visualization
+
+# Youtube Video - https://youtu.be/BywYo-UMJwU   
+![image](https://github.com/omkarm0542/Phonepe_Pulse_Data_Visualization/assets/123791884/e0d7bc40-99da-4a49-bd92-c7b65a94671a)
+
 This project retrieves data from the PhonePe Pulse Github repository, transforms it, and stores it in a MySQL database. It then creates an interactive dashboard using Streamlit and Plotly to visualize the data.
 
 ![image](https://user-images.githubusercontent.com/123791884/236590536-9d3687ed-4fca-4286-a36f-eb750e323d1c.png)
