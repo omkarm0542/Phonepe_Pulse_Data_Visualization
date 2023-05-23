@@ -9,32 +9,32 @@ This project retrieves data from the PhonePe Pulse Github repository, transforms
 
 
 # Prerequisites
-Python 3.x
+* Python 3.x
 
-Git
+* Git
 
-MySQL
+* MySQL
 
 # Installation                                                                             ![image](https://user-images.githubusercontent.com/123791884/236590572-4eb3f26c-5ed4-49f3-9277-e53e02e2c6e4.png)
 
 1. Clone the repository:
 
-git clone https://github.com/username/repo.git
+> git clone https://github.com/username/repo.git
 
 2. Install the required packages:
 
-pip install -r requirements.txt
+> pip install -r requirements.txt
 
 3. Configure the MySQL database by editing the config.ini file with your credentials.
 
 # Usage
 1. Run the main.py script to retrieve, transform, and store the data:
 
-python main.py
+> python main.py
 
 2. Launch the dashboard by running the app.py script:
 
-streamlit run app.py
+> streamlit run app.py
 
 3. Select different dropdown options to display various facts and figures on the dashboard.
 
@@ -44,7 +44,7 @@ This project is licensed under the Apache License 2.0. See the LICENSE file for 
 
 # Acknowledgments
 
-PhonePe Pulse Github repository
-Streamlit
-Plotly
-MySQL
+> PhonePe Pulse Github repository
+> Streamlit
+> Plotly
+> MySQL
